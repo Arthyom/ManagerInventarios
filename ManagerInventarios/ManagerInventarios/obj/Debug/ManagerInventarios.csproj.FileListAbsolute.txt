@@ -1,0 +1,9 @@
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\bin\Debug\ManagerInventarios.exe.config
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\bin\Debug\ManagerInventarios.exe
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\bin\Debug\ManagerInventarios.pdb
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\obj\Debug\ManagerInventarios.csprojResolveAssemblyReference.cache
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\obj\Debug\ManagerInventarios.Form_Principal.resources
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\obj\Debug\ManagerInventarios.Properties.Resources.resources
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\obj\Debug\ManagerInventarios.csproj.GenerateResource.Cache
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\obj\Debug\ManagerInventarios.exe
+C:\Users\Frodo\Documents\ManagerInventarios\ManagerInventarios\ManagerInventarios\obj\Debug\ManagerInventarios.pdb
